@@ -1,5 +1,8 @@
-# synthetix-network-token price gnome ticket 
+# synthetix-network-token gnome price ticker
 
-Gnome 3 desktop ticker for synthetix-network-token price with Python and argos. Rename to synthetix-network-token.1r.60s.py and put in ~/.config/argos
+Get synthetix-network-token price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/synthetix-network-token-price-gnome-ticket/](https://codesharedot.github.io/synthetix-network-token-price-gnome-ticket/)
 
-https://pythonbasics.org
+synthetix-network-token price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to synthetix-network-token.1r60s.py and put in ~/.config/argos
